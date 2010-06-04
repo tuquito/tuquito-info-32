@@ -1,3 +1,9 @@
+tuquito-info-32 (4.0-3) lucid; urgency=low
+
+  * vuelta a alpha
+
+ -- Mario Colque <mario@tuquito.org.ar>  Fri, 04 Jun 2010 20:54:37 -0300
+
 tuquito-info-32 (4.0-2) lucid; urgency=low
 
   * corrección en sintaxis de info
