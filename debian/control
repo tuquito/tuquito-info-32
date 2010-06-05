@@ -1,5 +1,5 @@
 Source: tuquito-info-32
-Section: utils
+Section: admin
 Priority: extra
 Maintainer: Mario Colque <mario@tuquito.org.ar>
 Build-Depends: debhelper (>= 7)
@@ -7,6 +7,7 @@ Standards-Version: 3.8.1
 
 Package: tuquito-info-32
 Architecture: i386
+Replaces: tuquito-info-main-32
 Description: Información básica del sistema
  Paquete base de información para el ajuste del sistema e identificación de versión.
  * Tuquito Team! - 2010
