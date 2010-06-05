@@ -1,3 +1,9 @@
+tuquito-info-32 (4.0-4) lucid; urgency=low
+
+  * agregado paquetes que reemplaza
+
+ -- Mario Colque <mario@tuquito.org.ar>  Fri, 04 Jun 2010 21:11:56 -0300
+
 tuquito-info-32 (4.0-3) lucid; urgency=low
 
   * vuelta a alpha
