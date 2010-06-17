@@ -3,4 +3,4 @@ CODENAME=toba
 DESCRIPTION="Tuquito 4 Toba"
 EDITION="Gnome 32bits"
 GRUB_TITLE=Tuquito 4 Toba
-STATUS=alpha
+STATUS=beta
