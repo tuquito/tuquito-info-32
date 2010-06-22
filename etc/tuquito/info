@@ -2,5 +2,4 @@ RELEASE=4
 CODENAME=toba
 DESCRIPTION="Tuquito 4 Toba"
 EDITION="Gnome 32bits"
-GRUB_TITLE=Tuquito 4 Toba
-STATUS=beta
+STATUS=stable
