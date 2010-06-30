@@ -1,3 +1,9 @@
+tuquito-info-32 (4.0-7) lucid; urgency=low
+
+  * Eliminacion de información no necesaria
+
+ -- Mario Colque <mario@tuquito.org.ar>  Wed, 30 Jun 2010 00:32:44 -0300
+
 tuquito-info-32 (4.0-6) lucid; urgency=low
 
   * Estado stable
