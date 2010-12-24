@@ -2,4 +2,4 @@ RELEASE=4.1
 CODENAME=wichi
 DESCRIPTION="Tuquito 4.1 Wichi"
 EDITION="Gnome 32bits"
-STATUS=beta
+STATUS=stable
